@@ -2,7 +2,7 @@
 
 Prepare with confidence for the **AZ-104 Microsoft Azure Administrator Exam** using verified, updated, and practical study materials. This repository includes high-quality PDF dumps, real-style practice questions, and essential study guides — all crafted to help you understand the core exam topics.
 ## 🔥 Special Offer  
-🎁 Click here to get 20% discount – tap now before the offer expires!
+🎁Click here to get 20% discount – tap now before the offer expires!
 https://www.realexamcollection.com/microsoft/az-104-dumps.html
 ---
 
